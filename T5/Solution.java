@@ -10,6 +10,8 @@ public class Solution {
                 String s1=sc.next();
                 int x=sc.nextInt();
                 System.out.printf("%-15s%03d%n",s1,x);
+
+		//it is some extra information for understanding purpose only
                 //%s is used to %-15s--> To ramove space for left side 15
 				//%d is used to %03d --> To remove space after right add '0'.
             }
