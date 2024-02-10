@@ -1,0 +1,11 @@
+First commit
+
+
+git init
+git status
+git add .
+git status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/venkateshkanadam/Hacker-Rank-Java.git
+git push -u origin main
