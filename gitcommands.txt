@@ -16,4 +16,37 @@ git push -u origin master
 code check_in/code push
 git status
 git add gitcommands.txt
+git commit -m "addding git commands to gitcommands.txt"
+git push -u origin master
+==============================================
+
+
+Project Cloning
+=========================================================================
+git clone  https://github.com/venkateshkanadam/Hacker-Rank-Java.git
+
+code check_in from new system
+===============================================
+git clone  https://github.com/venkateshkanadam/Hacker-Rank-Java.git
+ls
+cd Hacker-Rank-Java
+git status
+git add gitcommands.txt
+git commit -m "addding git commands to gitcommands.txt"
+git push -u origin master
+
+
+To get list of commands executed till now in the git bash 
+============================================================
+history
+
+
+
+
+
+
+
+
+
+
 
