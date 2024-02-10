@@ -13,3 +13,7 @@ git push -u origin master
 ================================================================================
 
 
+code check_in/code push
+git status
+git add gitcommands.txt
+
